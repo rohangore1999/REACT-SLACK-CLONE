@@ -1,4 +1,4 @@
-## REACT-SLACK-CLONE using REACT-Hooks REDUX, FIREBASE-Hooks, FIREBASE-Database(snapshot)
+## REACT-SLACK-CLONE using REACT-Hooks, REDUX, FIREBASE-Hooks, FIREBASE-Database(snapshot)
 
 Hosted on Firebase: https://slack-clone-63483.web.app/
 
